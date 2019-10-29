@@ -1,8 +1,8 @@
 # Image-To-EditableText
 
-## An Android Application Useful For Identifying Text in Images And Edit Them According To Need
+## An Android Application Useful For Identifying Text in Images And Edit Them According To Need.
 
-### Here Is a Simple Demo ScreenShot
+### Here are The Demo ScreenShots.
 
 
  <table>
